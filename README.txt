@@ -2,7 +2,10 @@ Here are all of the files/code used to score the 2015/2016 flu forecasting chall
 I've outlined the dependency structures below and how the files are used below. Please let me know
 if you have any questions or suggestions to improve the code!
 
-
+NOTE: I'm still waiting on CDC to approve installing Git on my system and GitHub's interface won't allow
+me to drag in empty folders, so you will have to create the folders listed below that are missing. Or
+someone can create them and make a pull request and I'll update the folder, which might be faster than
+waiting till I get Git.
 
 FOLDERS:
 
